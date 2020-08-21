@@ -1,0 +1,4 @@
+Uses : 
+- Firebase 
+- Flask
+- Python
